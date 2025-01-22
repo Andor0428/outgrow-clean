@@ -107,7 +107,7 @@ export default function JobApplicationWidget({ onClose }: JobApplicationWidgetPr
       {step === 1 && (
         <div className="space-y-4 animate-fade-in">
           <h3 className="text-2xl font-bold text-gray-900">Join Our Team</h3>
-          <p className="text-gray-600">We're looking for talented individuals to help us grow.</p>
+          <span>We&apos;re looking for talented individuals to help us grow.</span>
           <Button 
             onClick={() => setStep(2)}
             className="w-full"
@@ -419,7 +419,7 @@ export default function JobApplicationWidget({ onClose }: JobApplicationWidgetPr
             </svg>
           </div>
           <h3 className="text-2xl font-bold text-gray-900">Application Submitted!</h3>
-          <p className="text-gray-600">We'll review your application and get back to you soon.</p>
+          <span>We&apos;ll review your application and get back to you soon.</span>
           <Button 
             variant="secondary"
             onClick={onClose}

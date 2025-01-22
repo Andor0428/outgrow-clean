@@ -82,7 +82,7 @@ export default function Home() {
               </span>
             </h1>
             <h2 className="text-3xl md:text-5xl font-bold text-gray-800 leading-tight">
-              Acquire Leads with Outgrow's
+              Acquire Leads with Outgrow&apos;s
               <span className="text-blue-600"> #1 Quiz Maker</span>
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl leading-relaxed">
@@ -107,7 +107,7 @@ export default function Home() {
       <section className="py-24 px-6 bg-gradient-to-b from-white to-blue-50">
         <div className="max-w-7xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-16 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600">
-            Why Outgrow's Lead Generation Tools?
+            Why Outgrow&apos;s Lead Generation Tools?
           </h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
