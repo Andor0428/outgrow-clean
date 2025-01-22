@@ -152,7 +152,7 @@ export default function Home() {
               Join Our Growing Team
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              We're looking for talented individuals who are passionate about creating innovative solutions and making a difference.
+              We&apos;re looking for talented individuals who are passionate about creating innovative solutions and making a difference.
             </p>
           </div>
 
